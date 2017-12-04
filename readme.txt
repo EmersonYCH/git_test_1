@@ -5,4 +5,4 @@ Git tracks changes.
 yangchenhao
 zhaoxiaoxi
 Creating a new branch is quick.
-22222222222
+Creating a new branch is quick and simple.
